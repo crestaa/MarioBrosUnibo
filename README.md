@@ -1,13 +1,14 @@
 
 # MarioBrosUnibo
+<img src="https://www.unibo.it/it/logo-unibo.png/@@images/44d79f14-1a99-4a5d-997f-90df029bd63e.png" alt="UniBO" width="40%"/>
 
-Crestanello Gabriele 0000970352
+<a href="https://www.gabrielecrestanello.it" target="_blank">Crestanello Gabriele</a>
 
-Pietro Volpe 0000916254
+<a href="https://github.com/3amfox" target="_blank">Volpe Pietro</a>
 
 ## Utilizzo
 
-Il progetto si basa su un platform 2D con interfaccia ASCII, in cui il giocatore può muoversi su varie piattaforme raccogliendo bonus e cercando di evitare i nemici.  
+Il progetto si basa su un platform 2D con interfaccia ASCII, in cui il giocatore può muoversi su varie piattaforme raccogliendo bonus e cercando di evitare i nemici. Le specifiche seguite sono quelle richieste dalla consegna per il <a href="https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/320574" target="_blank">corso di programmazione (A.A. 2020/2021)</a>. 
 
 ### Controlli
 
