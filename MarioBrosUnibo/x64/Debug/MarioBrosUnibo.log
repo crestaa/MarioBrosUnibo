@@ -1,0 +1,13 @@
+﻿  Bonus.cpp
+  Enemy.cpp
+  Entity.cpp
+  Funzioni.cpp
+C:\Users\gabri\Documents\GitHub\MarioBrosUnibo\MarioBrosUnibo\Funzioni.cpp(191,16): warning C4838: la conversione da 'int' a 'SHORT' richiede una conversione che supporta un minor numero di dati
+C:\Users\gabri\Documents\GitHub\MarioBrosUnibo\MarioBrosUnibo\Funzioni.cpp(191,19): warning C4838: la conversione da 'int' a 'SHORT' richiede una conversione che supporta un minor numero di dati
+  MarioBrosUnibo.cpp
+  Platform.cpp
+  Player.cpp
+  Screen.cpp
+C:\Users\gabri\Documents\GitHub\MarioBrosUnibo\MarioBrosUnibo\Screen.cpp(21,12): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+  Generazione del codice in corso...
+  MarioBrosUnibo.vcxproj -> C:\Users\gabri\Documents\GitHub\MarioBrosUnibo\MarioBrosUnibo\x64\Debug\MarioBrosUnibo.exe

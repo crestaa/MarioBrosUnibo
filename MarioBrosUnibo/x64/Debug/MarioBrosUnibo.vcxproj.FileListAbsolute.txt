@@ -1,0 +1,2 @@
+C:\Users\gabri\Documents\GitHub\MarioBrosUnibo\MarioBrosUnibo\x64\Debug\MarioBrosUnibo.exe
+C:\Users\gabri\Documents\GitHub\MarioBrosUnibo\MarioBrosUnibo\x64\Debug\MarioBrosUnibo.pdb

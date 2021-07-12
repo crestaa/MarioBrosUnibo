@@ -1,0 +1,5 @@
+C:\Users\volpe\source\repos\MarioBrosUnibo\MarioBrosUnibo\Debug\MarioBrosUnibo.exe
+C:\Users\Gabriele\Desktop\Platform\MarioBrosUnibo\MarioBrosUnibo\Debug\MarioBrosUnibo.exe
+C:\Users\Gabriele\Desktop\Platform\MarioBrosUnibo\MarioBrosUnibo\Debug\MarioBrosUnibo.pdb
+C:\Users\gabri\Documents\GitHub\MarioBrosUnibo\MarioBrosUnibo\Debug\MarioBrosUnibo.exe
+C:\Users\gabri\Documents\GitHub\MarioBrosUnibo\MarioBrosUnibo\Debug\MarioBrosUnibo.pdb
