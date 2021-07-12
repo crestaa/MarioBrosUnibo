@@ -8,7 +8,7 @@
 
 ## Utilizzo
 
-Il progetto si basa su un platform 2D con interfaccia ASCII, in cui il giocatore può muoversi su varie piattaforme raccogliendo bonus e cercando di evitare i nemici. Le specifiche seguite sono quelle richieste dalla consegna per il <a href="https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/320574" target="_blank">corso di programmazione (A.A. 2020/2021)</a>. 
+Il progetto si basa su un platform 2D con interfaccia ASCII, in cui il giocatore può muoversi su varie piattaforme raccogliendo bonus e cercando di evitare i nemici. Le specifiche seguite sono quelle richieste dalla consegna per il <a href="https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2020/320574" target="_blank">corso di programmazione (A.A. 2020/2021)</a>. 
 
 ### Controlli
 
